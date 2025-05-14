@@ -1,3 +1,3 @@
-# guild-tag-creator
+# guild-tag-creator [ PATCHED ]
 
 # proxies - https://infinix.sh
